@@ -3,5 +3,4 @@
 
 <<<<<<< HEAD
 MBTI: ENTJ
-
-응 아니야~
+ddddddf\
