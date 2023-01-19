@@ -1,0 +1,1 @@
+print('I am Minjeong, Who are you ?')
