@@ -1,0 +1,2 @@
+class Jin:
+    pass
